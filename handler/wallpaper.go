@@ -29,6 +29,7 @@ func init() {
 	resolutionMap["1920"] = "1920x1080.jpg"
 
 	markets = map[string]bool{
+		"en-IN": true,
 		"en-US": true,
 		"zh-CN": true,
 		"ja-JP": true,
